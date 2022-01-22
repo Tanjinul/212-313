@@ -1,0 +1,11 @@
+Tanjinul Hoque Account Number: 1000 Balance: $512.0
+Son Goku Account Number: 1003 Balance: $15.0
+Bob Dylan Account Number: 1008 Balance: $20.0
+Bob Hoque Account Number: 1005 Balance: $17.0
+Tanji Hoe Account Number: 1234 Balance: $2500.0
+Grisha Yaeger Account Number: 1009 Balance: $21.0
+Minato Namikaze Account Number: 1002 Balance: $25.0
+Oliver James Account Number: 1007 Balance: $19.0
+Shikamaru Nara Account Number: 1006 Balance: $18.0
+Danny Phantom Account Number: 1010 Balance: $22.0
+Zeke Yeager Account Number: 1004 Balance: $16.0

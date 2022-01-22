@@ -1,0 +1,12 @@
+Tanjinul Hoque Account Number: 0001 Balance: $12.0
+Son Goku Account Number: 0004 Balance: $15.0
+Bob Builder Account Number: 0006 Balance: $17.0
+Bob Dylan Account Number: 0009 Balance: $20.0
+Hashirama Senju Account Number: 0002 Balance: $13.0
+Minato Namikaze Account Number: 0003 Balance: $25.0
+Oliver James Account Number: 0008 Balance: $19.0
+Tasf Hos Account Number: 4001 Balance: $50000.0
+Shikamaru Nara Account Number: 0007 Balance: $18.0
+Danny Phantom Account Number: 0011 Balance: $22.0
+Zeke Yeager Account Number: 0005 Balance: $16.0
+Grisha Yaeger Account Number: 0010 Balance: $21.0
