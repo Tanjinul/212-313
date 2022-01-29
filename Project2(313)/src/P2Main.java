@@ -13,7 +13,7 @@ import java.util.Scanner;
  * @author Tanjinul Hoque
  * Corrections made: 1) Changed recursive methods to static since they are not member methods
  * 2) Changed the name of my data field from customer to "data"
- * 3) Withdraw checks balance in the main, it does not throw an exception from customer class
+ * 3) Withdraw checks balance in the main, it does not throw an exception from customer class but throws in main
  * 
  * AccData is a better method because it has a constant time lookup, meaning when I have the account number
  * I can just look it up in the array using the account number since the customer corresponds to the account number
